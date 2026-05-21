@@ -15,7 +15,12 @@
 
 </div>
 <br>
-## Technologies
+## Transformando ideias em código, e código em experiências.##
+
+Atualmente, estou aprofundando meus conhecimentos em Python, SQL e desenvolvimento web moderno, aplicando tudo em projetos pessoais reais — desde sistemas web e interfaces modernas até automações e ferramentas personalizadas.
+Tenho experiência com HTML, CSS, JavaScript, React, Node.js e Git, além de estar explorando tecnologias como AWS, Cloud Computing e boas práticas de desenvolvimento escalável.
+
+Sempre buscando evoluir como desenvolvedor, focando em criar aplicações funcionais, modernas e com identidade visual marcante.
 
 <div align="center">
 
