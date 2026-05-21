@@ -12,6 +12,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ladymnria&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AtjnRn&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
 
 </div>
