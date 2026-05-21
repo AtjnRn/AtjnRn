@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AtjnRn/AtjnRn/blob/main/bannerspng.png" width="100%" heigth="100px" alt="banner"/>
+  <img src="https://github.com/AtjnRn/AtjnRn/blob/main/bannerspng.png" width="100%" alt="banner"/>
 </div>
 
 <div align="center">
@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
 
 </div>
-<br>
 
 <div align="center">
 
