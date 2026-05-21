@@ -15,7 +15,7 @@
 
 </div>
 <br>
-<p>Transformando ideias em código, e código em experiências.</p>
+<p><strong><em>Transformando ideias em código, e código em experiências.</strong><em></p>
 
 <p>Atualmente, estou aprofundando meus conhecimentos em Python, SQL e desenvolvimento web moderno, aplicando tudo em projetos pessoais reais — desde sistemas web e interfaces modernas até automações e ferramentas personalizadas.</p>
 
