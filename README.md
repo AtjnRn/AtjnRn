@@ -15,12 +15,13 @@
 
 </div>
 <br>
-## Transformando ideias em código, e código em experiências.##
+<p>Transformando ideias em código, e código em experiências.</p>
 
-Atualmente, estou aprofundando meus conhecimentos em Python, SQL e desenvolvimento web moderno, aplicando tudo em projetos pessoais reais — desde sistemas web e interfaces modernas até automações e ferramentas personalizadas.
-Tenho experiência com HTML, CSS, JavaScript, React, Node.js e Git, além de estar explorando tecnologias como AWS, Cloud Computing e boas práticas de desenvolvimento escalável.
+<p>Atualmente, estou aprofundando meus conhecimentos em Python, SQL e desenvolvimento web moderno, aplicando tudo em projetos pessoais reais — desde sistemas web e interfaces modernas até automações e ferramentas personalizadas.</p>
 
-Sempre buscando evoluir como desenvolvedor, focando em criar aplicações funcionais, modernas e com identidade visual marcante.
+<p>Tenho experiência com HTML, CSS, JavaScript e Git, além de estar explorando tecnologias como AWS, Cloud Computing e boas práticas de desenvolvimento escalável.</p>
+
+<p>Sempre buscando evoluir como desenvolvedor, focando em criar aplicações funcionais, modernas e com identidade visual marcante.</p>
 
 <div align="center">
 
