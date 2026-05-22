@@ -8,18 +8,12 @@
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AtjnRn&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
-
-</div>
-<br>
-# 👩🏻‍💻 
+### 👩🏻‍💻 
 <p><b>Transformando ideias em código, e código em experiências.</b>
 
-<p>Atualmente, estou aprofundando meus conhecimentos em <strong>Python</strong>, <strong>SQL</strong> e <strong>desenvolvimento web moderno</strong>, aplicando tudo em projetos pessoais reais — desde sistemas web e interfaces modernas até automações e ferramentas personalizadas.</p>
+<p>Atualmente, estou aprofundando meus conhecimentos em <b>Python</b>, <b>SQL</b> e <b>desenvolvimento web moderno</b>, aplicando tudo em projetos pessoais reais — desde sistemas web e interfaces modernas até automações e ferramentas personalizadas.</p>
 
-<p>Tenho experiência com <strong<HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>Git</strong>, além de estar explorando tecnologias como AWS, Cloud Computing e boas práticas de desenvolvimento escalável.</p>
+<p>Tenho experiência com <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e <b>Git</b>, além de estar explorando tecnologias como AWS, Cloud Computing e boas práticas de desenvolvimento escalável.</p>
 
 <p>Sempre buscando evoluir como desenvolvedor, focando em criar aplicações funcionais, modernas e com identidade visual marcante.</p>
 
@@ -139,4 +133,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+</div>
+
+  <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AtjnRn&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+
 </div>
