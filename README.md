@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://github.com/AtjnRn/AtjnRn/blob/main/bannerspng.png" width="100%" alt="banner" />
+  <img src="https://github.com/AtjnRn/AtjnRn/blob/main/a_900226b7f270d3c2fea268ae0d90f73d-041AE.gif" width="100%" alt="banner" />
 </div>
 
-### 👩🏻‍💻
-
+### 👩🏻‍💻 Ryan Nunes
+**`Desenvolvedor FullStack`**
+<div aling="center">
 <p><b>Transformando ideias em código, e código em experiências.</b></p>
 
 <p>Atualmente, estou aprofundando meus conhecimentos em <b>Python</b>, <b>SQL</b> e <b>desenvolvimento web moderno</b>, aplicando tudo em projetos pessoais reais — desde sistemas web e interfaces modernas até automações e ferramentas personalizadas.</p>
@@ -15,7 +16,7 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+</div>
 <div align="center">
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
@@ -54,3 +55,4 @@
     width="30px" 
   />
 </div>
+
