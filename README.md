@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AtjnRn/AtjnRn/blob/main/a_900226b7f270d3c2fea268ae0d90f73d-041AE.gif" width="100%" alt="banner" />
+  <img src="https://github.com/AtjnRn/AtjnRn/blob/main/bannerAj" width="100%" alt="banner" />
 </div>
 
 ### 👩🏻‍💻 Ryan Nunes
