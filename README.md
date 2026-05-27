@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👩🏻‍💻 Ryan Nunes
+# 🔒💻👁️ Ryan Nunes
 
 **`Desenvolvedor FullStack`**
 
